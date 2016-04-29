@@ -1,68 +1,3 @@
-
-Conversation opened. 1 read message.
-
-Skip to content
-Using Gmail with screen readers
- Streak
-Karnik
-Search
-
-
-aadithyavenkat@gmail.com 
-
-
-Take me to Inbox
-Gmail
-COMPOSE
-Labels
-Inbox (6)
-Starred
-Important
-Sent Mail
-Recently Viewed
-All Tracked Emails
-Awaiting Reply
-Drafts (2)
-Snoozed
-Pipelines + New
-Career Search
-Circles
-Notes
-Personal
-Travel
-More labels 
-Hangouts
-
- 
- 
-  
-Move to Inbox 
-  
-More 
-12 of about 59  
- 
-Print all In new window
-Kurukshetra OpenCV Code
-
-Karnik Ram <karnikram@gmail.com>
-AttachmentsFeb 22
-
-to aadithya 
-Find attached.
-Attachments area
-	
-Click here to Reply or Forward
-7.77 GB (51%) of 15 GB used
-Manage
-Terms - Privacy
-Last account activity: 0 minutes ago
-Details
-aadithya venkat
-Add to circles
-
-Show details
-
-
 #include "opencv2/imgproc/imgproc.hpp"
 #include "opencv2/highgui/highgui.hpp"
 #include <iostream>
@@ -493,5 +428,3 @@ void go_to_goal(Point goal)
 	cout<<str<<endl;
 		
 }
-prelims.cppOpen
-Displaying prelims.cpp.
