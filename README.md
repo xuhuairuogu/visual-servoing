@@ -3,8 +3,9 @@ This repo contains code for controlling a differential drive mobile robot within
 
 Also included are the PCB files for the mobile robot controller.
 
-
-<img src="https://github.com/karnikram/visual-servoing/blob/master/image.png" widht="50%"/>
+<div align="center">
+<img src="https://github.com/karnikram/visual-servoing/blob/master/image.png" width="60%"/>
+</div>
 <a href="https://www.youtube.com/watch?v=kU-pIHazJII">Video</a>
 
 ### Libraries Used
